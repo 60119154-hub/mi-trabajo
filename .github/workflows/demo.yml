@@ -12,6 +12,6 @@ jobs:
 
       - name: Segundo mensaje
         run: echo "Este es el segundo paso automático"
-      
+            - name: Ver archivos del repositorio
       - name: Ver archivos del repositorio
-        run: 1s 
+        run: Ls
